@@ -28,7 +28,7 @@ Lecturer:
 TA:
 <ul>
 <li>Qinze YU (<span style="color: #0099e6">qzyu22@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 2pm-4pm, Monday </li>
-<li>Yimin Fan (<span style="color: #0099e6">fanyimin@link.cuhk.edu.hk</span>), SHB-116. Office hour: 1pm-3pm, Tuesday</li>
+<li>Yimin Fan (<span style="color: #0099e6">fanyimin@link.cuhk.edu.hk</span>), SHB-904. Office hour: 2pm-4pm, Tuesday</li>
 <li>Ziqian Lin (<span style="color: #0099e6">linziqian@link.cuhk.edu.hk</span>), SHB-904. Office hour: 2pm-4pm, Thursday</li>
 </ul>
 
