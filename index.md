@@ -77,14 +77,14 @@ We will grade on the one you would like us to grade, but if you do not hand in y
 
 #### Programming
 Python (the TA will prepare a recitation class to introduce it, mainly for the non-grading homework and your project) or any other languages that you are familiar with. 
-For python, we suggest you to use <a ="https://colab.research.google.com/notebooks/intro.ipynb">Colab</a>. <br>
+For python, we suggest you to use <a href="https://colab.research.google.com/notebooks/intro.ipynb">Colab</a>. <br>
 
 The programming assessments include a non-graded programming assignment (5%) and the implementation in the project (5%). 
 The bonus is sufficient to cover all the programming credit in the project, if you really do not want to try hand-on experiments at all. 
 We do encourage you try.
 
 #### Scribing
-Please sign up the <a ="https://docs.google.com/spreadsheets/d/1A4240_iSqeesl9G5NzYAuIWpHZXZgS0sH6w-_rWt4TM/edit?usp=sharing">scribing preference</a>. 
+Please sign up the <a href="https://docs.google.com/spreadsheets/d/1A4240_iSqeesl9G5NzYAuIWpHZXZgS0sH6w-_rWt4TM/edit?usp=sharing">scribing preference</a>. 
 We should have at least one student for each lecture. We may adjust the assignment if necessary. 
 Notice that your note and scribing will be posted online, for others reference. 
 You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 15th Sep</span>**. 
