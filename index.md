@@ -84,7 +84,7 @@ The bonus is sufficient to cover all the programming credit in the project, if y
 We do encourage you try.
 
 #### Scribing
-Please sign up the <a href="">scribing preference</a>. 
+Please sign up the <a href="https://docs.google.com/spreadsheets/d/1A4240_iSqeesl9G5NzYAuIWpHZXZgS0sH6w-_rWt4TM/edit?usp=sharing">scribing preference</a>. 
 We should have at least one student for each lecture. We may adjust the assignment if necessary. 
 Notice that your note and scribing will be posted online, for others reference. 
 You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 15th Sep</span>**. 
