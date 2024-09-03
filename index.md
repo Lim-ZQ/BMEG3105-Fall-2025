@@ -149,7 +149,7 @@ But we will check the things in detail if the number of survey forms we received
 | 21      | Nov 20 (Wed) | SC L4    | EHRs & Text   |   |  |                          |  
 | 22      | Nov 22 (Fri) | MMW703   | Project Presentation      |  |    |     |                       <span style="color:red;">A3 due</span>                                           |
 | 23      | Nov 27 (Wed) | SC L4    | Course review   |    |   |   |                                                               <span style="color:red;">Quiz</span>        |
-| 24      | Nov 29 (Fri) | MMW703   | Project Presentation        |||                             |    <span style="color:red;">Project report due</span>  |
+| 24      | Nov 29 (Fri) | MMW703   | Project Presentation        |||                             |    <span style="color:red;">Project report due on 2 Dec</span>  |
 
 
 
