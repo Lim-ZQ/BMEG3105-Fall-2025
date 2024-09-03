@@ -44,7 +44,7 @@ In-person. Slides will be available the day before the lecture.
 
 #### Communications
 <b>Blackboard</b> is the main software to manage the course, and grading will be through Blackboard. 
-We will use <b>Piazza</b> (<a ="">BMEG3105</a>) for discussion. 
+We will use <b>Piazza</b> (<a href="http://piazza.com/cuhk.edu.hk/fall2024/bmeg3105">BMEG3105</a>) for discussion. 
 You can ask questions and discuss on Piazza, even anonymously. 
 For personal matters, please use the private post to the instructor and the TA. 
 You are also very welcomed to send emails to the teaching team.
