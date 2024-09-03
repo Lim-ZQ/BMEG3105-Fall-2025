@@ -7,7 +7,7 @@ layout: default
 
 ## BMEG3105: Data analytics for personalized genomics and precision medicine — Fall 2024
 
-[<a href="">Pre-course survey</a>, <a href="">Piazza</a>, 
+[<a href="https://forms.gle/u21ZMgaaEJ3oPfuy8">Pre-course survey</a>, <a href="">Piazza</a>, 
 <a href="">Scribing preference</a>,
 <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>,<a href="">Presentation schedule</a>]
 
