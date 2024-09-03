@@ -9,7 +9,7 @@ layout: default
 
 [<a href="https://forms.gle/u21ZMgaaEJ3oPfuy8">Pre-course survey</a>, <a href="http://piazza.com/cuhk.edu.hk/fall2024/bmeg3105">Piazza</a>, 
 <a href="https://docs.google.com/spreadsheets/d/1A4240_iSqeesl9G5NzYAuIWpHZXZgS0sH6w-_rWt4TM/edit?usp=sharing">Scribing preference</a>,
-<a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>,<a href="">Presentation schedule</a>]
+<a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>, <a href="">Presentation schedule</a>]
 
 ### <a>Course description</a>
 With social-economic development, people are increasingly caring about health. 
