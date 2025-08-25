@@ -27,7 +27,7 @@ Lecturer:
 </ul>
 TA:
 <ul>
-<li>Xinyuan LIU
+<li>Xinyuan LIU </li>
 <li>Ziqian LIN (<span style="color: #0099e6">linziqian@link.cuhk.edu.hk</span>), SHB-904. Office hour: 3pm-5pm, Wednesday</li>
 </ul>
 
