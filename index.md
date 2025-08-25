@@ -1,11 +1,11 @@
 ---
-name: BMEG3105-Fall-2024
+name: BMEG3105-Fall-2025
 title: ""
 title-heading: false
 layout: default
 ---
 
-## BMEG3105: Data analytics for personalized genomics and precision medicine — Fall 2024
+## BMEG3105: Data analytics for personalized genomics and precision medicine — Fall 2025
 
 [<a href="https://forms.gle/u21ZMgaaEJ3oPfuy8">Pre-course survey</a>, <a href="http://piazza.com/cuhk.edu.hk/fall2024/bmeg3105">Piazza</a>, 
 <a href="https://docs.google.com/spreadsheets/d/1A4240_iSqeesl9G5NzYAuIWpHZXZgS0sH6w-_rWt4TM/edit?usp=sharing">Scribing preference</a>,
@@ -27,9 +27,8 @@ Lecturer:
 </ul>
 TA:
 <ul>
-<li>Qinze YU (<span style="color: #0099e6">qzyu22@cse.cuhk.edu.hk</span>), SHB-116. Office hour: 2pm-4pm, Monday </li>
-<li>Yimin Fan (<span style="color: #0099e6">fanyimin@link.cuhk.edu.hk</span>), SHB-904. Office hour: 2pm-4pm, Tuesday</li>
-<li>Ziqian Lin (<span style="color: #0099e6">linziqian@link.cuhk.edu.hk</span>), SHB-904. Office hour: 3pm-5pm, Wednesday</li>
+<li>Xinyuan LIU
+<li>Ziqian LIN (<span style="color: #0099e6">linziqian@link.cuhk.edu.hk</span>), SHB-904. Office hour: 3pm-5pm, Wednesday</li>
 </ul>
 
 #### Time and location
