@@ -8,7 +8,7 @@ layout: default
 ## BMEG3105: Data analytics for personalized genomics and precision medicine — Fall 2025
 
 [<a href="https://forms.gle/ryNNT2qm5KUUt3oW6">Pre-course survey</a>, <a href="https://piazza.com/cuhk.edu.hk/fall2025/bmeg3105">Piazza</a>, 
-<a href="https://docs.google.com/spreadsheets/d/18Rx5EfxcMS9lgl1dKtQfpKciQfF0B4OM23vLPom3leE/edit?usp=sharing">Scribing preference</a>, <a href="https://docs.google.com/spreadsheets/d/1W-a2wLq5agvn12-nkaVTkqRVU_6zTEgiDQj4cjq7m04/edit?usp=sharing">Post-lecture survey</a>, <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>]
+<a href="https://docs.google.com/spreadsheets/d/18Rx5EfxcMS9lgl1dKtQfpKciQfF0B4OM23vLPom3leE/edit?usp=sharing">Scribing preference</a>, <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>]
 
 ### <a>Course description</a>
 With social-economic development, people are increasingly caring about health. 
