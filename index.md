@@ -8,8 +8,7 @@ layout: default
 ## BMEG3105: Data analytics for personalized genomics and precision medicine — Fall 2025
 
 [<a href="https://forms.gle/ryNNT2qm5KUUt3oW6">Pre-course survey</a>, <a href="https://piazza.com/cuhk.edu.hk/fall2025/bmeg3105">Piazza</a>, 
-<a href="https://docs.google.com/spreadsheets/d/18Rx5EfxcMS9lgl1dKtQfpKciQfF0B4OM23vLPom3leE/edit?usp=sharing">Scribing preference</a>,
-<a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>, <a href="">Presentation schedule</a>]
+<a href="https://docs.google.com/spreadsheets/d/18Rx5EfxcMS9lgl1dKtQfpKciQfF0B4OM23vLPom3leE/edit?usp=sharing">Scribing preference</a>,<a href="https://docs.google.com/spreadsheets/d/1W-a2wLq5agvn12-nkaVTkqRVU_6zTEgiDQj4cjq7m04/edit?usp=sharing">Post-lecture survey</a>,<a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>, <a href="">Presentation schedule</a>]
 
 ### <a>Course description</a>
 With social-economic development, people are increasingly caring about health. 
@@ -83,7 +82,7 @@ The bonus is sufficient to cover all the programming credit in the project, if y
 We do encourage you try.
 
 #### Scribing
-Please sign up the <a href="https://docs.google.com/spreadsheets/d/1A4240_iSqeesl9G5NzYAuIWpHZXZgS0sH6w-_rWt4TM/edit?usp=sharing">scribing preference</a>. 
+Please sign up the <a href="https://docs.google.com/spreadsheets/d/18Rx5EfxcMS9lgl1dKtQfpKciQfF0B4OM23vLPom3leE/edit?usp=sharing">scribing preference</a>. 
 We should have at least one student for each lecture. We may adjust the assignment if necessary. 
 Notice that your note and scribing will be posted online, for others reference. 
 You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 15th Sep</span>**. 
@@ -112,7 +111,7 @@ A maximum of 2 late days can be used for each assignment. Grades will be deducte
 #### Post-lecture survey 
 Deadline for each survey: <span style="color: red; font-weight: bold">11:59pm on the day before the next lecture</span>. 
 We do this because we could have time to answer the questions you mentioned in the survey. 
-Please enter a "1" in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/1xYWAb7NcAQWl1i3lEX4McRZ_bvnWel3fPE409UXp2Xw/edit?usp=sharing">Survey results</a>, once you have finished one survey. 
+Please enter a "1" in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/1W-a2wLq5agvn12-nkaVTkqRVU_6zTEgiDQj4cjq7m04/edit?usp=sharing">Survey results</a>, once you have finished one survey. 
 Usually, we will trust the 1s you fill in the Google sheet. 
 But we will check the things in detail if the number of survey forms we received and the number of 1s on the Google sheet is not consistent.
 
