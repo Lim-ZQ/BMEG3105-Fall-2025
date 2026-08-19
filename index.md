@@ -9,7 +9,7 @@ layout: default
 ## BMEG3105: Data analytics for personalized genomics and precision medicine — Fall 2026
 
 [<a href="https://forms.gle/ryNNT2qm5KUUt3oW6">Pre-course survey</a>, <a href="https://piazza.com/cuhk.edu.hk/fall2026/bmeg3105">Piazza</a>, 
-<a href="https://docs.google.com/spreadsheets/d/18Rx5EfxcMS9lgl1dKtQfpKciQfF0B4OM23vLPom3leE/edit?usp=sharing">Scribing preference</a>, <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>]
+<a href="https://docs.google.com/spreadsheets/d/1znk8EKOJh-DaTQzsQ8dkzHsGW4B0uAskz0Rn6hEXhw0/edit?usp=sharing">Scribing preference</a>, <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>, <a href="#assignments">Assignments</a>]
 
 ### <a>Course description</a>
 
